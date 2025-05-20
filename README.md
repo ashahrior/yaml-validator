@@ -16,7 +16,7 @@ These instructions will help you set up and run the application on your local ma
 1. **Clone the repository:**
    ```sh
    git clone <repository-url>
-   cd my-swagger-editor
+   cd yaml-validator
    ```
 
 2. **Install dependencies:**
